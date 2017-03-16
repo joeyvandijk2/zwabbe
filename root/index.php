@@ -17,11 +17,13 @@
 
 </head>
 <body>
-	<div class="continer-fluid">
-		<div class="col-xs-12" id="topbalk">lol</div>
+	<div class="container-fluid topbalk">
+		<div class="col-xs-2 col-md-2 logo">logo</div>
+		<div class="col-xs-8 col-md-8 menu">menu balk</div>
+		<div class="col-xs-2 col-md-2 inlog">inlog</div>
 	</div>
-	<div class="continer" id="continer">
-		
+	
+	<div class="container" id="container">
 		
 	</div>
 	<div id="footer"></div>
