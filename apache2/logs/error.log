@@ -1,5 +1,4 @@
-[Thu Mar 16 14:51:28.399963 2017] [mpm_winnt:notice] [pid 8096:tid 752] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
-[Thu Mar 16 14:51:28.399963 2017] [mpm_winnt:notice] [pid 8096:tid 752] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
-[Thu Mar 16 14:51:28.399963 2017] [core:notice] [pid 8096:tid 752] AH00094: Command line: 'C:\\Users\\Joey\\Desktop\\school\\PAO\\zwabbe/apache2/bin/httpd_usbwv8.exe -d C:/Users/Joey/Desktop/school/PAO/zwabbe/apache2'
-[Thu Mar 16 14:51:28.401463 2017] [mpm_winnt:notice] [pid 8096:tid 752] AH00418: Parent: Created child process 9916
-[Thu Mar 16 14:51:28.771311 2017] [mpm_winnt:notice] [pid 9916:tid 732] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 16 15:03:52.251722 2017] [mpm_winnt:notice] [pid 16072:tid 524] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Thu Mar 16 15:03:52.251722 2017] [mpm_winnt:notice] [pid 16072:tid 524] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Thu Mar 16 15:03:52.251722 2017] [core:notice] [pid 16072:tid 524] AH00094: Command line: 'D:\\zwabbe/apache2/bin/httpd_usbwv8.exe -d D:/zwabbe/apache2'
+[Thu Mar 16 15:03:52.255725 2017] [mpm_winnt:notice] [pid 16072:tid 524] AH00418: Parent: Created child process 17216
